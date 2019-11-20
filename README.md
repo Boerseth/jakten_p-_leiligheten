@@ -97,7 +97,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/1280w/2018/1/vertical-2/18/7/107/818/_628728180.jpg" 
     alt="Solsiden 1" 
-    width="400"
+    width="200"
   />
 </a>
 
