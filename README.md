@@ -7,7 +7,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/1600w/2019/11/vertical-2/12/8/917/206/78_829053884.jpg" 
     alt="Øya" 
-    width="200"
+    width="400"
   />
 </a>
 
@@ -24,7 +24,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/1600w/2019/9/vertical-2/05/6/156/917/246_375647687.jpg" 
     alt="Sentrum, skråtak" 
-    width="200"
+    width="400"
   />
 </a>
 
@@ -43,7 +43,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/1280w/2019/10/vertical-2/18/8/160/801/318_1369297802.jpg" 
     alt="Nedre Møllenberg" 
-    width="200"
+    width="400"
   />
 </a>
 
@@ -63,7 +63,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/1600w/2019/11/vertical-2/13/4/163/126/244_1298164094.jpg" 
     alt="Lerkendal" 
-    width="200"
+    width="400"
   />
 </a>
 
@@ -80,7 +80,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/1280w/2018/9/vertical-2/11/6/128/970/526_310310125.jpg" 
     alt="Sentrum, stor" 
-    width="200"
+    width="400"
   />
 </a>
 
@@ -97,7 +97,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/1280w/2018/1/vertical-2/18/7/107/818/_628728180.jpg" 
     alt="Solsiden 1" 
-    width="200"
+    width="400"
   />
 </a>
 
@@ -114,7 +114,7 @@
   <img 
     src="https://images.finncdn.no/dynamic/960w/2018/11/vertical-2/08/l/nul/l_2134850385.jpg" 
     alt="Solsiden 2" 
-    width="200"
+    width="400"
   />
 </a>
 
