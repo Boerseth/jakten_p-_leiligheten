@@ -3,7 +3,7 @@
 ## Under 14k
 
 ### [Øya](https://www.finn.no/realestate/lettings/ad.html?finnkode=91720678)
-[![alt text](https://images.finncdn.no/dynamic/1600w/2019/11/vertical-2/12/8/917/206/78_829053884.jpg "Øya" =250x )](https://www.finn.no/realestate/lettings/ad.html?finnkode=91720678)
+[![alt text](https://images.finncdn.no/dynamic/1600w/2019/11/vertical-2/12/8/917/206/78_829053884.jpg "Øya"){:width="200px"}](https://www.finn.no/realestate/lettings/ad.html?finnkode=91720678)
 * 12 000 kr / mnd + 25 000 kr depositum
 * Innflytting **1. des**
 * Virker akkurat litt for lite?
