@@ -10,6 +10,7 @@
     width="200"
   />
 </a>
+
 * 12 000 kr / mnd + 25 000 kr depositum
 * Innflytting **1. des**
 * Virker akkurat litt for lite?
