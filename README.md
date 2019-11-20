@@ -11,6 +11,7 @@
 * ikke direkte nært trening
 
 [SENTRUM, skråtak](https://www.finn.no/realestate/lettings/ad.html?finnkode=156917246)
+[![alt text](https://images.finncdn.no/dynamic/1600w/2019/9/vertical-2/05/6/156/917/246_375647687.jpg "SENTRUM, skråtak")](https://www.finn.no/realestate/lettings/ad.html?finnkode=156917246)
 * 12 500 kr / mnd + 25 000 kr depositum
 * Innflytting **ASAP** (15. nov)
 * Stort kanskje, men skråtak
