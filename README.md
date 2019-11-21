@@ -37,23 +37,6 @@
 * Kanskje Frodes favoritt
 
 ---
-
-### [Nedre Møllenberg](https://www.finn.no/realestate/lettings/ad.html?finnkode=160801318)
-<a href="https://www.finn.no/realestate/lettings/ad.html?finnkode=160801318">
-  <img 
-    src="https://images.finncdn.no/dynamic/1280w/2019/10/vertical-2/18/8/160/801/318_1369297802.jpg" 
-    alt="Nedre Møllenberg" 
-    width="400"
-  />
-</a>
-
-* 13 000 kr / mnd + 39 000 kr depositum
-* Innflytting **ASAP** (18. okt)
-* Virker lite og trangt
-* Bra standard
-* **nært trening**
-
----
 ---
 
 ## Over 14k
